@@ -4,6 +4,9 @@
     It's part of the free course provided by Origamid:  <br />
     (https://www.origamid.com/curso/css-flexbox)
 </p> 
+<p>
+    Published: http://rqguzman-flexblog.surge.sh/
+</p>
 
 ### LICENSE
 
